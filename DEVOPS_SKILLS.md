@@ -21,3 +21,6 @@
 ## Monitoring & Security
 - Log analysis
 - Basic system security practices
+
+## Infrastructure as Code
+- Basic understanding of Terraform concepts
